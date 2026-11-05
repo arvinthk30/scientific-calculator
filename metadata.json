@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Precision Scientific Calculator",
+  "description": "Advanced scientific calculator featuring live formula parsing, trigonometry, logarithms, memory registers, physical constants, unit conversion, and responsive dark Obsidian theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
