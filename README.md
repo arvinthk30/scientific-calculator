@@ -8,6 +8,8 @@ A responsive scientific calculator with an Obsidian dark aesthetic, built for co
 
 https://obsidian-precision-scientific-calculator.ai.studio
 
+Backup link: https://arvinthk30.github.io/scientific-calculator/
+
 ## Screenshots
 
 ### Desktop
@@ -66,7 +68,7 @@ git clone https://github.com/arvinthk30/scientific-calculator.git
 cd scientific-calculator
 
 # 3. Install dependencies
-npm install
+npm install --legacy-peer-deps
 
 # 4. Start the development server
 npm run dev
